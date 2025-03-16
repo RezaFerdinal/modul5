@@ -1,0 +1,15 @@
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\bin\Debug\net8.0\tpmodul5_103022300135.exe
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\bin\Debug\net8.0\tpmodul5_103022300135.deps.json
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\bin\Debug\net8.0\tpmodul5_103022300135.runtimeconfig.json
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\bin\Debug\net8.0\tpmodul5_103022300135.dll
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\bin\Debug\net8.0\tpmodul5_103022300135.pdb
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.AssemblyInfoInputs.cache
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.AssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.sourcelink.json
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.dll
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\refint\tpmodul5_103022300135.dll
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.pdb
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\tpmodul5_103022300135.genruntimeconfig.cache
+C:\Users\ASUS VIVOBOOK\Documents\rezasemester4\KPL\tpmodul5_103022300135\tpmodul5_103022300135\obj\Debug\net8.0\ref\tpmodul5_103022300135.dll
